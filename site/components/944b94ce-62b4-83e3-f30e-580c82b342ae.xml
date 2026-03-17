@@ -9,7 +9,7 @@
 	<file-name>944b94ce-62b4-83e3-f30e-580c82b342ae.xml</file-name>
 	<folder-name/>
 	<internal-name>Hlavička</internal-name>
-	<logo_s>https://www.kormak.cz/images/LOGO-KORMAK-w244h50.p</logo_s>
+	<logo_s>https://www.kormak.cz/images/LOGO-KORMAK-w244h50.png</logo_s>
 	<navigationItems_o item-list="true">	<item>	<label_s>Produkty a služby</label_s>
 	<href_s>/produkty-a-sluzby</href_s>
 	<isExternal_b>false</isExternal_b>
@@ -25,6 +25,6 @@
 	</item></navigationItems_o>
 	<createdDate>2026-03-17T11:07:47.218Z</createdDate>
 	<createdDate_dt>2026-03-17T11:07:47.218Z</createdDate_dt>
-	<lastModifiedDate>2026-03-17T11:07:47.218Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-03-17T11:07:47.218Z</lastModifiedDate_dt>
+	<lastModifiedDate>2026-03-17T11:30:33.319Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-03-17T11:30:33.319Z</lastModifiedDate_dt>
 </component>
