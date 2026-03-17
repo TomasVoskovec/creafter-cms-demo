@@ -1,0 +1,13 @@
+<content-type name="/component/featured-services" is-wcm-type="true">
+<label>Featured Services</label>
+<form>/component/featured-services</form>
+<form-path>simple</form-path>
+<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+<file-extension>xml</file-extension>
+<content-as-folder>false</content-as-folder>
+<previewable>false</previewable>
+<quickCreate>false</quickCreate>
+<quickCreatePath></quickCreatePath>
+<noThumbnail>true</noThumbnail>
+<image-thumbnail></image-thumbnail>
+</content-type>
