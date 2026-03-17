@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/featured-services</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5dc7</objectGroupId>
+	<objectId>5dc7b641-023e-ffae-1ce1-eab6ae871868</objectId>
+	<file-name>5dc7b641-023e-ffae-1ce1-eab6ae871868.xml</file-name>
+	<folder-name/>
+	<internal-name>Vybrané produkty a služby</internal-name>
+	<heading_s>Vybrané produkty a služby</heading_s>
+	<items_o item-list="true">	<item>	<title_s>Výstavba kabelových sítí</title_s>
+	<icon_s>https://www.kormak.cz/images/icons/service-cable.png</icon_s>
+	<href_s>/produkty-a-sluzby/vystavba-kabelovych-siti</href_s>
+	</item>	<item>	<title_s>Výstavba trafostanic</title_s>
+	<icon_s>https://www.kormak.cz/images/icons/service-trafo.png</icon_s>
+	<href_s>/produkty-a-sluzby/vystavba-trafostanic</href_s>
+	</item>	<item>	<title_s>Projekční a inženýrská činnost</title_s>
+	<icon_s>https://www.kormak.cz/images/icons/project_ico.png</icon_s>
+	<href_s>produkty-a-sluzby/projekcni-a-inzenyrska-cinnost/</href_s>
+	</item>	<item>	<title_s>Výstavba kabelových sítí</title_s>
+	<icon_s>https://www.kormak.cz/images/icons/service-light.png</icon_s>
+	<href_s>/produkty-a-sluzby/vystavba-kabelovych-siti/</href_s>
+	</item></items_o>
+	<createdDate>2026-03-17T11:11:28.345Z</createdDate>
+	<createdDate_dt>2026-03-17T11:11:28.345Z</createdDate_dt>
+	<lastModifiedDate>2026-03-17T11:11:28.345Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-03-17T11:11:28.345Z</lastModifiedDate_dt>
+</component>
