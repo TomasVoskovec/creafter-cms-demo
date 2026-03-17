@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/service-detail</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d9ad</objectGroupId>
+	<objectId>d9adc678-e0a0-4bae-d319-987feab52ece</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>produkty-a-sluzbyvystavba-trafostanic</folder-name>
+	<internal-name>Výstavba trafostanic</internal-name>
+	<navLabel>Výstavba trafostanic</navLabel>
+	<title_s>Výstavba trafostanic</title_s>
+	<subtitle_s/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;KORMAK Praha a.s. je v&amp;yacute;znamnou společnost&amp;iacute; ve v&amp;yacute;stavbě distribučn&amp;iacute;ch (dTS) a velkoodběratelsk&amp;yacute;ch (voTS) transformačn&amp;iacute;ch stanic a to jak vestavěn&amp;yacute;ch, tak monolitick&amp;yacute;ch v proveden&amp;iacute; od firem Betonbau a Scheidt. Tyto stavby můžeme zajistit i tzv. "na kl&amp;iacute;č" od zpracov&amp;aacute;n&amp;iacute; projektov&amp;eacute; dokumentace, přes odsouhlasen&amp;iacute; př&amp;iacute;slu&amp;scaron;n&amp;yacute;mi org&amp;aacute;ny, až po vlastn&amp;iacute; realizaci dan&amp;eacute;ho projektu včetně kompletn&amp;iacute;ho inžen&amp;yacute;ringu.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;monolitick&amp;eacute; nebo vestavěn&amp;eacute; transformačn&amp;iacute; stanice při developersk&amp;yacute;ch projektech&lt;/li&gt;
+&lt;li&gt;v&amp;yacute;stavba rozp&amp;iacute;nac&amp;iacute;ch stanic vč. dispečersk&amp;eacute; techniky&lt;/li&gt;
+&lt;li&gt;rekonstrukce st&amp;aacute;vaj&amp;iacute;c&amp;iacute;ch transformačn&amp;iacute;ch a rozp&amp;iacute;nac&amp;iacute;ch stanic&lt;/li&gt;
+&lt;/ul&gt;</body_html>
+	<footerText_html>&lt;p&gt;V př&amp;iacute;padě Va&amp;scaron;eho z&amp;aacute;jmu n&amp;aacute;s kontaktujte&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/"&gt;telefonicky&lt;/a&gt;&amp;nbsp;nebo&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/#anchor-kp-contact-form"&gt;e-mailov&amp;yacute;m formul&amp;aacute;řem&lt;/a&gt;.&lt;/p&gt;</footerText_html>
+	<createdDate>2026-03-17T11:38:34.857Z</createdDate>
+	<createdDate_dt>2026-03-17T11:38:34.857Z</createdDate_dt>
+	<lastModifiedDate>2026-03-17T11:38:34.857Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-03-17T11:38:34.857Z</lastModifiedDate_dt>
+</page>
