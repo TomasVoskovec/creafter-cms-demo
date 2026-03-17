@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/site-footer</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8d94</objectGroupId>
+	<objectId>8d9474f1-70e6-6945-8f57-e8bc76bf7ff5</objectId>
+	<internal-name>Patička</internal-name>
+	<col1Title_s>Produkty a služby</col1Title_s>
+	<col2Title_s>Důležité informace</col2Title_s>
+	<col3Title_s>Kontakty</col3Title_s>
+	<contactEmail_s_s>kormak@kormak.cz</contactEmail_s_s>
+	<contactPhone_s>267 051 301</contactPhone_s>
+	<file-name>8d9474f1-70e6-6945-8f57-e8bc76bf7ff5.xml</file-name>
+	<folder-name/>
+	<col1Links_o item-list="true">	<item>	<label_s>Výstavba kabelových sítí</label_s>
+	<href_s>/produkty-a-sluzby/vystavba-kabelovych-siti</href_s>
+	</item>	<item>	<label_s>Výstavba trafostanic</label_s>
+	<href_s>/produkty-a-sluzby/vystavba-trafostanic</href_s>
+	</item>	<item>	<label_s>Projekční a inženýrská činnost</label_s>
+	<href_s>/produkty-a-sluzby/projekcni-a-inzenyrska-cinnost</href_s>
+	</item>	<item>	<label_s>Veřejné osvětlení</label_s>
+	<href_s>/produkty-a-sluzby/verejne-osvetleni</href_s>
+	</item>	<item>	<label_s>Pronájem a údržba trafostanic</label_s>
+	<href_s>/produkty-a-sluzby/pronajem-a-udrzba-trafostanic</href_s>
+	</item>	<item>	<label_s>Nepřetržitá poruchová služba 24/7</label_s>
+	<href_s>/produkty-a-sluzby/nepretrzita-poruchova-sluzba</href_s>
+	</item></col1Links_o>
+	<col2Links_o item-list="true">	<item>	<label_s>Volné pracovní pozice</label_s>
+	<href_s>https://pre.jobs.cz/</href_s>
+	</item>	<item>	<label_s>Certifikáty</label_s>
+	<href_s>/o-spolecnosti/certifikaty</href_s>
+	</item></col2Links_o>
+	<col3Links_o item-list="true">	<item>	<label_s>Objednání služeb</label_s>
+	<href_s>/kontakt/#anchor-kp-contact-form</href_s>
+	</item></col3Links_o>
+	<createdDate>2026-03-17T11:14:45.885Z</createdDate>
+	<createdDate_dt>2026-03-17T11:14:45.885Z</createdDate_dt>
+	<lastModifiedDate>2026-03-17T11:14:45.885Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-03-17T11:14:45.885Z</lastModifiedDate_dt>
+</component>
