@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/service-detail</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2dec</objectGroupId>
+	<objectId>2dece44f-48eb-a200-e647-962067dc5c6d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>verejne-osvetleni</folder-name>
+	<internal-name>Veřejné osvětlení</internal-name>
+	<navLabel>Veřejné osvětlení</navLabel>
+	<title_s/>
+	<subtitle_s/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;Prov&amp;aacute;d&amp;iacute;me pr&amp;aacute;ce spojen&amp;eacute; s v&amp;yacute;stavbou a &amp;uacute;držbou veřejn&amp;eacute;ho a slavnostn&amp;iacute;ho osvětlen&amp;iacute;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;v&amp;yacute;stavba nov&amp;yacute;ch s&amp;iacute;t&amp;iacute; a osvětlovac&amp;iacute;ch bodů&lt;/li&gt;
+&lt;li&gt;v&amp;yacute;stavba zap&amp;iacute;nac&amp;iacute;ch bodů vč. připojen&amp;iacute; z distribučn&amp;iacute; s&amp;iacute;tě&lt;/li&gt;
+&lt;li&gt;&amp;uacute;držba a spr&amp;aacute;va st&amp;aacute;vaj&amp;iacute;c&amp;iacute;ch s&amp;iacute;t&amp;iacute;&lt;/li&gt;
+&lt;/ul&gt;</body_html>
+	<footerText_html>&lt;p&gt;V př&amp;iacute;padě Va&amp;scaron;eho z&amp;aacute;jmu n&amp;aacute;s kontaktujte&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/"&gt;telefonicky&lt;/a&gt;&amp;nbsp;nebo&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/#anchor-kp-contact-form"&gt;e-mailov&amp;yacute;m formul&amp;aacute;řem&lt;/a&gt;.&lt;/p&gt;</footerText_html>
+	<createdDate>2026-03-17T11:43:17.905Z</createdDate>
+	<createdDate_dt>2026-03-17T11:43:17.905Z</createdDate_dt>
+	<lastModifiedDate>2026-03-17T11:43:17.905Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-03-17T11:43:17.905Z</lastModifiedDate_dt>
+</page>
