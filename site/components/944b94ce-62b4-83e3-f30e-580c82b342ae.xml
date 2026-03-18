@@ -13,7 +13,7 @@
 	<navigationItems_o item-list="true">	<item>	<label_s>Produkty a služby</label_s>
 	<href_s>/produkty-a-sluzby</href_s>
 	<isExternal_b>false</isExternal_b>
-	</item>	<item>	<label_s>O společnosti</label_s>
+	</item>	<item>	<label_s>O společnosti test</label_s>
 	<href_s>o-spolecnnosti</href_s>
 	<isExternal_b>false</isExternal_b>
 	</item>	<item>	<label_s>Volná místa</label_s>
@@ -25,6 +25,6 @@
 	</item></navigationItems_o>
 	<createdDate>2026-03-17T11:07:47.218Z</createdDate>
 	<createdDate_dt>2026-03-17T11:07:47.218Z</createdDate_dt>
-	<lastModifiedDate>2026-03-17T11:30:33.319Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-03-17T11:30:33.319Z</lastModifiedDate_dt>
+	<lastModifiedDate>2026-03-18T11:43:20.077Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-03-18T11:43:20.077Z</lastModifiedDate_dt>
 </component>
