@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/service-detail</content-type>
-	<display-template/>
-	<no-template-required>true</no-template-required>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>12f3</objectGroupId>
-	<objectId>12f39c94-54a3-f9c2-409b-80dbb87f7307</objectId>
-	<file-name>index.xml</file-name>
-	<folder-name>projekcni-a-inzenyrska-cinnost</folder-name>
-	<internal-name>Projekční a inženýrská činnost</internal-name>
-	<navLabel>Projekční a inženýrská činnost</navLabel>
-	<title_s>Projekční a inženýrská činnost</title_s>
-	<subtitle_s/>
-	<placeInNav>false</placeInNav>
-	<orderDefault_f>-1</orderDefault_f>
-	<body_html>&lt;p&gt;Společnost KORMAK Praha a.s. disponuje vlastn&amp;iacute; projekčn&amp;iacute; kancel&amp;aacute;ř&amp;iacute; se &amp;scaron;pičkov&amp;yacute;m vybaven&amp;iacute;m na projekčn&amp;iacute; pr&amp;aacute;ce. Pro vytv&amp;aacute;řen&amp;iacute; dokumentace využ&amp;iacute;v&amp;aacute;me nejmoderněj&amp;scaron;&amp;iacute; technologie a produkty jako velkoform&amp;aacute;tovou tisk&amp;aacute;rnu, skener, AutoCAD.&lt;/p&gt;
+  <content-type>/page/service-detail</content-type>
+  <display-template/>
+  <no-template-required>true</no-template-required>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>12f3</objectGroupId>
+  <objectId>12f39c94-54a3-f9c2-409b-80dbb87f7307</objectId>
+  <file-name>index.xml</file-name>
+  <folder-name>projekcni-a-inzenyrska-cinnost</folder-name>
+  <internal-name>Projekční a inženýrská činnost</internal-name>
+  <navLabel>Projekční a inženýrská činnost</navLabel>
+  <title_s><![CDATA[Projekční a inženýrská činnostiii]]></title_s>
+  <subtitle_s/>
+  <placeInNav>false</placeInNav>
+  <orderDefault_f>-1</orderDefault_f>
+  <body_html>&lt;p&gt;Společnost KORMAK Praha a.s. disponuje vlastn&amp;iacute; projekčn&amp;iacute; kancel&amp;aacute;ř&amp;iacute; se &amp;scaron;pičkov&amp;yacute;m vybaven&amp;iacute;m na projekčn&amp;iacute; pr&amp;aacute;ce. Pro vytv&amp;aacute;řen&amp;iacute; dokumentace využ&amp;iacute;v&amp;aacute;me nejmoderněj&amp;scaron;&amp;iacute; technologie a produkty jako velkoform&amp;aacute;tovou tisk&amp;aacute;rnu, skener, AutoCAD.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;kabelov&amp;eacute; rozvody 1 kV, 22 kV a 110 kV&lt;/li&gt;
 &lt;li&gt;sdělovac&amp;iacute; s&amp;iacute;tě optick&amp;eacute; a metalick&amp;eacute;&lt;/li&gt;
@@ -24,15 +24,15 @@
 &lt;li&gt;komplexn&amp;iacute; inžen&amp;yacute;rsk&amp;aacute; činnost&lt;/li&gt;
 &lt;li&gt;zaji&amp;scaron;těn&amp;iacute; povolen&amp;iacute; dle stavebn&amp;iacute;ho z&amp;aacute;kona&lt;/li&gt;
 &lt;/ul&gt;</body_html>
-	<footerText_html>&lt;div&gt;
+  <footerText_html>&lt;div&gt;
 &lt;div&gt;
 &lt;div&gt;
 &lt;p&gt;V př&amp;iacute;padě Va&amp;scaron;eho z&amp;aacute;jmu n&amp;aacute;s kontaktujte&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/"&gt;telefonicky&lt;/a&gt;&amp;nbsp;nebo&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/#anchor-kp-contact-form"&gt;e-mailov&amp;yacute;m formul&amp;aacute;řem&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</footerText_html>
-	<createdDate>2026-03-17T11:42:42.190Z</createdDate>
-	<createdDate_dt>2026-03-17T11:42:42.190Z</createdDate_dt>
-	<lastModifiedDate>2026-03-18T11:31:19.890Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-03-18T11:31:19.890Z</lastModifiedDate_dt>
+  <createdDate>2026-03-17T11:42:42.190Z</createdDate>
+  <createdDate_dt>2026-03-17T11:42:42.190Z</createdDate_dt>
+  <lastModifiedDate>2026-03-18T11:31:19.890Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-03-20T16:13:55.412Z</lastModifiedDate_dt>
 </page>
