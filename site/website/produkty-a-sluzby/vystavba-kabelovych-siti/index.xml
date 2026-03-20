@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/service-detail</content-type>
-	<display-template/>
-	<no-template-required>true</no-template-required>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>e4d3</objectGroupId>
-	<objectId>e4d32805-47b5-9e1e-e7f5-b2c893bbb2d4</objectId>
-	<file-name>index.xml</file-name>
-	<folder-name>vystavba-kabelovych-siti</folder-name>
-	<internal-name>Výstavba kabelových sítí</internal-name>
-	<navLabel>Výstavba kabelových sítí</navLabel>
-	<title_s>Výstavba kabelových sítí</title_s>
-	<subtitle_s>Výstavba podzemních kabelových sítí 1kV, 22kV a sdělovacích sítí</subtitle_s>
-	<placeInNav>true</placeInNav>
-	<orderDefault_f>0</orderDefault_f>
-	<body_html>&lt;p&gt;Na&amp;scaron;e společnost je v&amp;yacute;znamn&amp;yacute;m dodavatelem podzemn&amp;iacute;ch energetick&amp;yacute;ch liniov&amp;yacute;ch staveb. Tyto stavby můžeme zajistit i tzv. "na kl&amp;iacute;č" a to od zpracov&amp;aacute;n&amp;iacute; projektov&amp;eacute; dokumentace, přes odsouhlasen&amp;iacute; př&amp;iacute;slu&amp;scaron;n&amp;yacute;mi org&amp;aacute;ny vč. schv&amp;aacute;len&amp;iacute; org&amp;aacute;ny st&amp;aacute;tn&amp;iacute; spr&amp;aacute;vy až po vlastn&amp;iacute; realizaci dan&amp;eacute;ho projektu včetně kompletn&amp;iacute;ho inžen&amp;yacute;ringu. To v&amp;scaron;e v kvalitě&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/o-spolecnosti/certifikaty/certifikace/"&gt;ISO 9001 : 2008&lt;/a&gt;.&lt;/p&gt;
+  <content-type>/page/service-detail</content-type>
+  <display-template/>
+  <no-template-required>true</no-template-required>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>e4d3</objectGroupId>
+  <objectId>e4d32805-47b5-9e1e-e7f5-b2c893bbb2d4</objectId>
+  <file-name>index.xml</file-name>
+  <folder-name>vystavba-kabelovych-siti</folder-name>
+  <internal-name>Výstavba kabelových sítí</internal-name>
+  <navLabel>Výstavba kabelových sítí</navLabel>
+  <title_s><![CDATA[Výstavba kabelových sítí]]></title_s>
+  <subtitle_s>Výstavba podzemních kabelových sítí 1kV, 22kV a sdělovacích sítí</subtitle_s>
+  <placeInNav>true</placeInNav>
+  <orderDefault_f>0</orderDefault_f>
+  <body_html>&lt;p&gt;Na&amp;scaron;e společnost je v&amp;yacute;znamn&amp;yacute;m dodavatelem podzemn&amp;iacute;ch energetick&amp;yacute;ch liniov&amp;yacute;ch staveb. Tyto stavby můžeme zajistit i tzv. "na kl&amp;iacute;č" a to od zpracov&amp;aacute;n&amp;iacute; projektov&amp;eacute; dokumentace, přes odsouhlasen&amp;iacute; př&amp;iacute;slu&amp;scaron;n&amp;yacute;mi org&amp;aacute;ny vč. schv&amp;aacute;len&amp;iacute; org&amp;aacute;ny st&amp;aacute;tn&amp;iacute; spr&amp;aacute;vy až po vlastn&amp;iacute; realizaci dan&amp;eacute;ho projektu včetně kompletn&amp;iacute;ho inžen&amp;yacute;ringu. To v&amp;scaron;e v kvalitě&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/o-spolecnosti/certifikaty/certifikace/"&gt;ISO 9001 : 2008&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;kabelov&amp;eacute; s&amp;iacute;tě 1 kV, 22 kV&lt;/li&gt;
 &lt;li&gt;sdělovac&amp;iacute; s&amp;iacute;tě optick&amp;eacute; a metalick&amp;eacute;&lt;/li&gt;
@@ -22,16 +22,23 @@
 &lt;li&gt;manipulace v s&amp;iacute;ti PREdistribuce, a. s.&lt;/li&gt;
 &lt;li&gt;smluvn&amp;iacute; partner PREměřen&amp;iacute;, a. s., ve zřizov&amp;aacute;n&amp;iacute; nov&amp;yacute;ch a &amp;uacute;pravě st&amp;aacute;vaj&amp;iacute;c&amp;iacute;ch obchodn&amp;iacute;ch měřen&amp;iacute;&lt;/li&gt;
 &lt;/ul&gt;</body_html>
-	<footerText_html>&lt;p&gt;V př&amp;iacute;padě Va&amp;scaron;eho z&amp;aacute;jmu n&amp;aacute;s kontaktujte&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/"&gt;telefonicky&lt;/a&gt;&amp;nbsp;nebo&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/#anchor-kp-contact-form"&gt;e-mailov&amp;yacute;m formul&amp;aacute;řem&lt;/a&gt;.&lt;/p&gt;</footerText_html>
-	<gallery_o item-list="true">	<item>	<image_s>https://www.kormak.cz/cs/produkty-a-sluzby/vystavba-kabelovych-siti/Contents.2/0/8383DDC401EA4FFA494B242295F9CCAC/original.jpg</image_s>
-	<alt_s>Výstavba kabelových sítí</alt_s>
-	</item>	<item>	<image_s>https://www.kormak.cz/cs/produkty-a-sluzby/vystavba-kabelovych-siti/Contents.2/0/65B305D36A2E7F291256D3B36D65954F/original.jpg</image_s>
-	<alt_s>Kabelové sítě</alt_s>
-	</item>	<item>	<image_s>https://www.kormak.cz/cs/produkty-a-sluzby/vystavba-kabelovych-siti/Contents.2/0/E743059D6C5322A0DEFBF5A0B443EF29/original.jpg</image_s>
-	<alt_s>Dělník u kabelové sítě</alt_s>
-	</item></gallery_o>
-	<createdDate>2026-03-17T11:33:08.875Z</createdDate>
-	<createdDate_dt>2026-03-17T11:33:08.875Z</createdDate_dt>
-	<lastModifiedDate>2026-03-17T11:37:24.238Z</lastModifiedDate>
-	<lastModifiedDate_dt>2026-03-17T11:37:24.238Z</lastModifiedDate_dt>
+  <footerText_html>&lt;p&gt;V př&amp;iacute;padě Va&amp;scaron;eho z&amp;aacute;jmu n&amp;aacute;s kontaktujte&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/"&gt;telefonicky&lt;/a&gt;&amp;nbsp;nebo&amp;nbsp;&lt;a href="https://www.kormak.cz/cs/kontakt/#anchor-kp-contact-form"&gt;e-mailov&amp;yacute;m formul&amp;aacute;řem&lt;/a&gt;.&lt;/p&gt;</footerText_html>
+  <gallery_o item-list="true">
+    <item>
+      <image_s>https://www.kormak.cz/cs/produkty-a-sluzby/vystavba-kabelovych-siti/Contents.2/0/8383DDC401EA4FFA494B242295F9CCAC/original.jpg</image_s>
+      <alt_s>Výstavba kabelových sítí</alt_s>
+    </item>
+    <item>
+      <image_s>https://www.kormak.cz/cs/produkty-a-sluzby/vystavba-kabelovych-siti/Contents.2/0/65B305D36A2E7F291256D3B36D65954F/original.jpg</image_s>
+      <alt_s>Kabelové sítě</alt_s>
+    </item>
+    <item>
+      <image_s>https://www.kormak.cz/cs/produkty-a-sluzby/vystavba-kabelovych-siti/Contents.2/0/E743059D6C5322A0DEFBF5A0B443EF29/original.jpg</image_s>
+      <alt_s>Dělník u kabelové sítě</alt_s>
+    </item>
+  </gallery_o>
+  <createdDate>2026-03-17T11:33:08.875Z</createdDate>
+  <createdDate_dt>2026-03-17T11:33:08.875Z</createdDate_dt>
+  <lastModifiedDate>2026-03-17T11:37:24.238Z</lastModifiedDate>
+  <lastModifiedDate_dt>2026-03-20T16:00:55.793Z</lastModifiedDate_dt>
 </page>
